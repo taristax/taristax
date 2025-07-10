@@ -21,22 +21,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taristax&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taristax&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taristax&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 - 📧 Email: alviantaristaputra@gmail.com  
 
