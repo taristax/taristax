@@ -1,7 +1,7 @@
 <!-- Profil README untuk github.com/taristax -->
 
-<h1 align="center">Hi 👋, I'm Taristax</h1>
-<h3 align="center">🚀 Computer Science Student </h3> 
+<h1 align="center">Hi, I'm Taristax</h1>
+<h3 align="center"> Computer Science Student </h3> 
 
 ---
 
